@@ -5,3 +5,11 @@ Cerebellum is a website that allows you to:
 * See player information and statistics
 * Ban/kick players
 * ...
+
+OSS used:
+* Laravel 10
+* InertiaJS
+* Svelte
+* Vite
+
+
